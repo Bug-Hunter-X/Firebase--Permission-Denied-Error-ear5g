@@ -1,0 +1,1 @@
+The Firebase SDK might throw an error if the project's security rules are too restrictive. For example, if you attempt to read data that your client doesn't have permission to access, you'll encounter a permission-denied error. This can also happen if your client's authentication token is invalid or expired.
